@@ -1,0 +1,20 @@
+{
+  "name": "tomato-timer",
+  "version": "1.0.0",
+  "description": "番茄时钟 - Pomodoro Timer Desktop App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron ."
+  },
+  "keywords": [
+    "pomodoro",
+    "timer",
+    "electron"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^42.0.0"
+  }
+}
